@@ -63,17 +63,17 @@ export default function Hero() {
           
           <motion.div
             variants={itemVariants}
-            className="mt-10 flex flex-col sm:flex-row gap-3 sm:gap-4 w-full sm:max-w-md"
+            className="mt-10 flex flex-row gap-2 sm:gap-4 flex-wrap"
           >
             <a 
               href="/projects" 
-              className="btn-primary justify-center text-sm sm:text-base py-3 sm:py-3 px-4 sm:px-6 w-full sm:w-auto"
+              className="btn-primary justify-center text-xs sm:text-sm md:text-base py-2 sm:py-3 px-3 sm:px-6 flex-1 min-w-[140px]"
             >
               View Projects
             </a>
             <a 
               href="/fleet" 
-              className="inline-flex items-center justify-center px-4 sm:px-6 py-3 sm:py-3 text-sm sm:text-base rounded-lg bg-brand-accent text-brand-primary font-semibold shadow-elevate hover:brightness-95 active:scale-95 transition-all w-full sm:w-auto"
+              className="inline-flex items-center justify-center px-3 sm:px-6 py-2 sm:py-3 text-xs sm:text-sm md:text-base rounded-lg bg-brand-accent text-brand-primary font-semibold shadow-elevate hover:brightness-95 active:scale-95 transition-all flex-1 min-w-[130px]"
             >
               Hire Equipment
             </a>
