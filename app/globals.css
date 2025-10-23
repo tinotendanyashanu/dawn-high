@@ -101,15 +101,15 @@ a {
   }
 
   .btn-primary {
-    @apply px-6 py-3 rounded-lg bg-brand-accent text-brand-primary font-semibold shadow-elevate hover:brightness-95 active:scale-95 transition-all;
+    @apply px-6 py-3 rounded-xl bg-gradient-to-r from-brand-accent to-yellow-500 text-brand-primary font-bold shadow-lg hover:shadow-2xl hover:brightness-105 active:scale-95 transition-all uppercase tracking-wide text-sm;
   }
 
   .btn-secondary {
-    @apply px-6 py-3 rounded-lg border-2 border-brand-primary text-brand-primary font-semibold hover:bg-brand-primary hover:text-white transition-all;
+    @apply px-6 py-3 rounded-xl border-2 border-brand-primary text-brand-primary font-bold hover:bg-brand-primary hover:text-white transition-all uppercase tracking-wide text-sm;
   }
 
   .btn-outline {
-    @apply px-6 py-3 rounded-lg border border-white text-white font-semibold hover:bg-white hover:text-brand-primary transition-all;
+    @apply px-6 py-3 rounded-xl border-2 border-white text-white font-bold hover:bg-white hover:text-brand-primary transition-all uppercase tracking-wide text-sm;
   }
 }
 

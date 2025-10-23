@@ -67,13 +67,13 @@ export default function Hero() {
           >
             <a 
               href="/projects" 
-              className="btn-primary justify-center text-xs sm:text-sm md:text-base py-2 sm:py-3 px-3 sm:px-6 flex-1 min-w-[140px]"
+              className="btn-primary text-xs sm:text-sm md:text-base py-2 sm:py-3 px-3 sm:px-6 flex-1 min-w-[140px] rounded-xl"
             >
               View Projects
             </a>
             <a 
               href="/fleet" 
-              className="inline-flex items-center justify-center px-3 sm:px-6 py-2 sm:py-3 text-xs sm:text-sm md:text-base rounded-lg bg-brand-accent text-brand-primary font-semibold shadow-elevate hover:brightness-95 active:scale-95 transition-all flex-1 min-w-[130px]"
+              className="px-3 sm:px-6 py-2 sm:py-3 text-xs sm:text-sm md:text-base rounded-xl bg-white text-brand-primary font-bold shadow-lg hover:shadow-2xl hover:brightness-95 active:scale-95 transition-all flex-1 min-w-[130px] uppercase tracking-wide inline-flex items-center justify-center"
             >
               Hire Equipment
             </a>
