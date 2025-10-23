@@ -29,7 +29,7 @@ const equipment = [
     title: "Wheel Loader",
     desc: "Nimble loader for material movement, stockpile management, and loading operations.",
     specs: { engine: "110 HP", bucket: "2.5 m³", weight: "18 tons", daily: "$300" },
-    img: "https://images.unsplash.com/photo-1487088492541-e0ea1e3dd4c0?q=80&w=1600&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1581092925329-0f51e6f47e9d?q=80&w=1600&auto=format&fit=crop"
   },
   {
     title: "Tipper Truck (Scania)",
@@ -41,7 +41,7 @@ const equipment = [
     title: "Lowbed Trailer",
     desc: "Specialized transport for heavy machinery and equipment. Hydraulic ramps and tie-down points.",
     specs: { capacity: "40 tons", deck: "13m", height: "1.2m", daily: "$220" },
-    img: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1600&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1581092167562-40aa08e2471f?q=80&w=1600&auto=format&fit=crop"
   },
 ]
 

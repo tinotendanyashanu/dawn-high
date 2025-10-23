@@ -29,7 +29,7 @@ const imgs = [
     title: "Active Construction Site"
   },
   {
-    src: "https://images.unsplash.com/photo-1528365540205-2e1f939f1b3c?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop",
     alt: "Completed project",
     title: "Completed Office Building"
   }
