@@ -63,17 +63,17 @@ export default function Hero() {
           
           <motion.div
             variants={itemVariants}
-            className="mt-10 flex flex-row gap-2 sm:gap-4 flex-wrap"
+            className="mt-10 flex flex-row gap-3 sm:gap-5 md:gap-6 flex-wrap justify-start md:justify-start"
           >
             <a 
               href="/projects" 
-              className="btn-primary text-xs sm:text-sm md:text-base py-2 sm:py-3 px-3 sm:px-6 flex-1 min-w-[140px] rounded-xl"
+              className="inline-flex items-center justify-center px-5 sm:px-8 md:px-10 py-3 sm:py-4 md:py-4 text-sm sm:text-base md:text-lg rounded-xl bg-gradient-to-r from-brand-accent via-yellow-400 to-brand-accent text-brand-primary font-bold shadow-xl hover:shadow-2xl hover:scale-105 active:scale-95 transition-all duration-300 uppercase tracking-widest whitespace-nowrap"
             >
               View Projects
             </a>
             <a 
               href="/fleet" 
-              className="px-3 sm:px-6 py-2 sm:py-3 text-xs sm:text-sm md:text-base rounded-xl bg-white text-brand-primary font-bold shadow-lg hover:shadow-2xl hover:brightness-95 active:scale-95 transition-all flex-1 min-w-[130px] uppercase tracking-wide inline-flex items-center justify-center"
+              className="inline-flex items-center justify-center px-5 sm:px-8 md:px-10 py-3 sm:py-4 md:py-4 text-sm sm:text-base md:text-lg rounded-xl bg-white text-brand-primary font-bold shadow-xl hover:shadow-2xl hover:scale-105 active:scale-95 transition-all duration-300 uppercase tracking-widest whitespace-nowrap border-2 border-white"
             >
               Hire Equipment
             </a>
