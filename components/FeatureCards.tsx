@@ -8,25 +8,25 @@ const items = [
     title: "Construction Services",
     desc: "From foundations to finishing. We deliver resilient structures across residential, commercial, and industrial sectors with uncompromising quality.",
     icon: "🏗️",
-    image: "https://images.unsplash.com/photo-1559074902-b8a0b7e37b3e?q=80&w=1600&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1600&auto=format&fit=crop"
   },
   {
     title: "Project Management",
     desc: "Transparent planning, rigorous quality assurance, and safety-first execution. Every project is delivered on schedule and within budget.",
     icon: "📋",
-    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1600&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop"
   },
   {
     title: "Brick Manufacturing",
     desc: "Consistent quality and reliable supply for large-scale developments. Our kiln operates 24/7 to meet Zimbabwe's growing construction demand.",
     icon: "🧱",
-    image: "https://images.unsplash.com/photo-1541976590-713941a63ee0?q=80&w=1600&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1486438322978-b0acf61b9e31?q=80&w=1600&auto=format&fit=crop"
   },
   {
     title: "Vehicles & Equipment Hire",
     desc: "Excavators, graders, dozers, and heavy trucks. Ready for rapid deployment. Well-maintained fleet with expert operators available.",
     icon: "🚜",
-    image: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=1600&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?q=80&w=1600&auto=format&fit=crop"
   }
 ]
 

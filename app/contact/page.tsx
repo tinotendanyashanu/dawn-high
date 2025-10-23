@@ -35,7 +35,7 @@ export default function ContactPage() {
       <PageHero 
         title="Get In Touch" 
         subtitle="We're ready to discuss your project or equipment needs. Reach out—we respond quickly."
-        image="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1600&auto=format&fit=crop" 
+        image="https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop" 
       />
 
       {/* Quick Contact */}

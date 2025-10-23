@@ -42,10 +42,10 @@ const values = [
 export default function ServicesPage() {
   return (
     <>
-      <PageHero 
-        title="Our Services" 
-        subtitle="Comprehensive construction solutions backed by expertise, innovation, and unwavering commitment to excellence."
-        image="https://images.unsplash.com/photo-1559074902-b8a0b7e37b3e?q=80&w=2000&auto=format&fit=crop"
+            <PageHero 
+        title="Our Services"
+        subtitle="Comprehensive construction solutions tailored to your project needs"
+        image="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1600&auto=format&fit=crop" 
       />
 
       {/* Main Services */}

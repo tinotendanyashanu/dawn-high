@@ -28,7 +28,7 @@ export default function AboutPage() {
       <PageHero 
         title="About Dawn" 
         subtitle="Building Zimbabwe's future with integrity, expertise, and commitment to excellence since 2010."
-        image="https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=1600&auto=format&fit=crop" 
+        image="https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop" 
       />
 
       {/* Our Story */}
@@ -61,7 +61,7 @@ export default function AboutPage() {
               className="relative h-96 rounded-2xl overflow-hidden shadow-elevate"
             >
               <Image
-                src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1600&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop"
                 alt="Team at work"
                 fill
                 className="object-cover"

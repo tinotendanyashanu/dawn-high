@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-3">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-3 h-3 rounded-full bg-brand-accent" />
-              <h3 className="text-lg font-bold">DAWN</h3>
+              <h3 className="text-lg font-bold">DAWN World </h3>
             </div>
             <p className="text-white text-sm leading-relaxed">
               Building Zimbabwe's future with excellence, integrity, and innovation.
@@ -74,7 +74,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="mt-8 sm:mt-12 pt-6 sm:pt-8 border-t border-white/10">
           <div className="flex flex-col sm:flex-row justify-between items-center text-xs sm:text-sm text-white/70 space-y-3 sm:space-y-0">
-            <p>© {new Date().getFullYear()} Dawn Construction Group. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Dawn World Construction. All rights reserved.</p>
             <div className="flex gap-4 sm:gap-6 text-xs text-white/70">
               <a href="#" className="hover:text-brand-accent transition">Privacy Policy</a>
               <a href="#" className="hover:text-brand-accent transition">Terms of Service</a>

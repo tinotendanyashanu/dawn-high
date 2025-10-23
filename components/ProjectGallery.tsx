@@ -9,27 +9,27 @@ const imgs = [
     title: "Modern Commercial Complex"
   },
   {
-    src: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1486438322978-b0acf61b9e31?q=80&w=1600&auto=format&fit=crop",
     alt: "Residential development",
     title: "Luxury Residential Development"
   },
   {
-    src: "https://images.unsplash.com/photo-1486438322978-b0acf61b9e31?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=1600&auto=format&fit=crop",
     alt: "Industrial facility",
     title: "Industrial Facility"
   },
   {
-    src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1600&auto=format&fit=crop",
     alt: "Urban construction",
     title: "Urban Development"
   },
   {
-    src: "https://images.unsplash.com/photo-1559074902-b8a0b7e37b3e?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1504917595217-340dab6ba18b?q=80&w=1600&auto=format&fit=crop",
     alt: "Construction site",
     title: "Active Construction Site"
   },
   {
-    src: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1600&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1528365540205-2e1f939f1b3c?q=80&w=1600&auto=format&fit=crop",
     alt: "Completed project",
     title: "Completed Office Building"
   }
